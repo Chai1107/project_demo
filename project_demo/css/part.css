@@ -22,9 +22,11 @@
 
 .action-items:hover .action-icon {
   background-color: #467ccc;
+  transition: background-color 0.2s linear 0.1s
 }
 .action-items:hover .action-items-text {
   color: #467ccc;
+  transition: color 0.2s linear 0.1s
 }
 
 .action-icon {
@@ -36,6 +38,12 @@
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  transition: background-color 0.2s linear 0.1s
+}
+
+.action-items-text {
+  color: #555;
+  transition: color 0.2s linear 0.1s
 }
 
 .icon-erji {

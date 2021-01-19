@@ -1,0 +1,16 @@
+{
+  "id": "2334875",
+  "name": "project_demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1311982",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}

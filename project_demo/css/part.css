@@ -1,0 +1,44 @@
+.logo {
+  width: 38px;
+  margin-right: 15px;
+}
+
+.logo-text {
+  font-weight: bolder;
+  font-size: 20px;
+  color: white;
+}
+
+.action-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 25px 12px 25px;
+}
+
+.action-items:hover {
+  cursor: pointer;
+}
+
+.action-items:hover .action-icon {
+  background-color: #467ccc;
+}
+.action-items:hover .action-items-text {
+  color: #467ccc;
+}
+
+.action-icon {
+  background-color: #555;
+  width: 45px;
+  height: 45px;
+  border-radius: 22.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon-erji {
+  font-size: 20px;
+  color: white;
+}

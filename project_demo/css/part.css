@@ -13,7 +13,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 0 25px 12px 25px;
+  margin: 0 25px 0 25px;
 }
 
 .action-items:hover {
@@ -37,7 +37,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 10px;
+  margin: 0 5.5px 10px 5.5px;
   transition: background-color 0.2s linear 0.1s
 }
 
@@ -47,6 +47,6 @@
 }
 
 .icon-erji {
-  font-size: 20px;
+  font-size: 25px;
   color: white;
 }
